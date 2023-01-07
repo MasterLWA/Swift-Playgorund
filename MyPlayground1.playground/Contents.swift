@@ -17,7 +17,11 @@ else{
 
 let num: Int //declair int variable
 var name:String //declair string variable
-num = 11
+num = 9
 name = "lakindu"
 print(num)
 print(name)
+
+num > 10 ? print("Hello"):print("No"); //If condition - Nil-Colision
+
+
